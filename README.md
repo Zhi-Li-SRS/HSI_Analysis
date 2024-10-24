@@ -1,4 +1,4 @@
-# Multimodal Imaging Analysis Tools
+# Multimodal Hyperspectral Imaging Analysis
 
 This repository contains analysis tools for processing and analyzing multimodal imaging data, and h-SRS image. 
 
@@ -63,7 +63,7 @@ python ratio_analysis.py --folders /path/to/control /path/to/disease \
 Parameters:
 - `--folders`: List of folders containing ROI data
 - `--output-dir`: Directory for saving generated plots (default: figures/boxplot)
-- `--sample-size`: Number of samples per label for analysis (default: 50000)
+- `--sample-size`: Number of samples per label for analysis (default: 10000)
 
 
 ## License
